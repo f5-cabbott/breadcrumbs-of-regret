@@ -1,4 +1,4 @@
-#Is this why we have frigates on ourrr digital oceans again?
+# Is this why we have frigates on ourrr digital oceans again?
 
 I just wanted to watch "The Office" while on holiday in France.... and since moving to arm64/aarch64... it's been an adventure. Not the hobbit kind.
 
